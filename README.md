@@ -108,5 +108,5 @@ Vista previa de los informes impresos exportados con plantillas personalizadas.<
 <p align="center"><sub>Créditos de componentes visuales: <a href="https://github.com/kyechan99/capsule-render/blob/main/docs/README_es.md">capsule-render</a> por @kyechan99 y <a href="https://github.com/denvercoder1">readme-typing-svg</a> por @DenverCoder1</sub></p>
 
 <div align="center">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=A2C6E0&section=footer" />
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFB7B2&section=footer" />
 </div>
